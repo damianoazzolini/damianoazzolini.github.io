@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blockchain Interoperability Solutions
-date: 2019-06-09
+date: 2019-07-17
 categories: blockchain
 ---
 
