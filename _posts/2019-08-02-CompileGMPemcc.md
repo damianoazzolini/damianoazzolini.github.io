@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compile GMP with emscripten
+title: Compile GMP with Emscripten
 date: 2019-07-17
 categories: miscellaneus
 ---
