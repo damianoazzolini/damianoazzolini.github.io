@@ -16,7 +16,7 @@ snow:-
     weather(cloudy),
     temperature(low).
 ```
-We have a small database with two terms representing the weather the temperature. Moreover, we have a predicate `snow/0` which is true if the weather is cloudy and the temperature is low. If we run `?- snow` we get `true`. As expected. 
+We have a small database with two facts representing the weather the temperature. Moreover, we have a predicate `snow/0` which is true if the weather is cloudy and the temperature is low. If we run `?- snow` we get `true`. As expected. 
 Now we are interested to know if will rain. 
 According to our experience, we know that if the weather is cloudy and the temperature is not low it will rain (if the temperature is low, the rain will be snow). How we can encode in our program `the weather is not low`?
 
