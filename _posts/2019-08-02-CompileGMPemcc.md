@@ -9,7 +9,7 @@ GMP is one of the most known libraries to manipulate large primes.
 It usually works with C and C++ code. However, it could be interesting
 to compile it with emscripten in order to run it on a web page. 
 In this brief guide i show you how i was able to compile it on
-Ubuntu 16.04 x89_64. I've found few resoures on internet on how
+Ubuntu 16.04 x89_64. I've found few resources on internet on how
 to do it but none of them really worked for me... 
 
 TL;DR: if you are impatient, just look at the [gist](https://gist.github.com/damianoazzolini/42ceb8e1473750dbf07b1ab0ed75a0a9) i've created.

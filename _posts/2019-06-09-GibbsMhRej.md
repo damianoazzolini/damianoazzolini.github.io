@@ -14,7 +14,7 @@ The main idea of MCMC methods is to try to approximate the real probability dist
 
 ![Markov chain image (credits: Wikipedia)](/images/mc.svg)
 
-The previous image can be interpreted as: there are two states, `E` and `A`. With probability 0.3 (i.e. 30%) the models stays in state `E` and with probability 0.7 the model goes to state `A`. Similarly, with probability 0.4 the model goes from `A` to `E` and with probability 0.6 the model stays in `A`. Notice that the sum of the probility on the outgoing arcs is 1.
+The previous image can be interpreted as: there are two states, `E` and `A`. With probability 0.3 (i.e. 30%) the models stays in state `E` and with probability 0.7 the model goes to state `A`. Similarly, with probability 0.4 the model goes from `A` to `E` and with probability 0.6 the model stays in `A`. Notice that the sum of the probability on the outgoing arcs is 1.
 
 Markov chain can be use both in *discrete*, as this example and *continuous* time. Here we consider mainly discrete time.
 
