@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Negation in Prolog
-date: 2019-01-11
+date: 2020-01-11
 categories: prolog
 ---
 In this post we will see how prolog handles negation. I will use SWI-Prolog as program for the examples.
