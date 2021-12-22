@@ -67,5 +67,5 @@ Facts denote which is true in the domain of interest since, in Prolog, what is
 not explicitly stated is considered false.
 
 ## Useful References
-- https://sicstus.sics.se/sicstus/docs/4.3.1/html/sicstus/Glossary.html
-- https://www.swi-prolog.org/pldoc/man?section=glossary#gloss:compound
+- [https://sicstus.sics.se/sicstus/docs/4.3.1/html/sicstus/Glossary.html](https://sicstus.sics.se/sicstus/docs/4.3.1/html/sicstus/Glossary.html)
+- [https://www.swi-prolog.org/pldoc/man?section=glossary](https://www.swi-prolog.org/pldoc/man?section=glossary)
