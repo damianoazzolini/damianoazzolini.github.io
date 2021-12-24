@@ -2,7 +2,7 @@ title: My blog
 author: Damiano Azzolini
 email: damiano[dot]azzolini[at]unife[dot]it
 description: > # this means to ignore newlines until "show_excerpts:"
-  Just my blog where i write about what i'm working on. Sometimes AI, sometimes blockchain. Bye.
+  Just my blog where i write about my interests, in particular Statistical Relational Artificial Intelligence and Prolog.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

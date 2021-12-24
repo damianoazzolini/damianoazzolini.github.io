@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi. I'm Damiano Azzolini, research assistant from [Università degli Studi di Ferrara](http://unife.it/). 
-Here i write about my interests, in particular Statistical Relational Artificial Intelligence.
+Here i write about my interests, in particular Statistical Relational Artificial Intelligence and Prolog.
 
 [University website](http://ml.unife.it/damiano-azzolini/)
 

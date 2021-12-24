@@ -4,8 +4,8 @@ title: Prolog glossary
 date: 2021-12-22
 categories: prolog
 ---
-In this new video, we will see the common terminology adopted in Prolog.
-You will note that there are several words that can denote the same element.
+In this new blog post, we will see the common terminology adopted in Prolog.
+<!-- You will note that there are several words that can denote the same element. -->
 
 # Glossary
 Everything in Prolog is represented with *terms*.
@@ -34,7 +34,7 @@ Car
 _a
 ```
 
-The variable `_` is called the anonymous variable.
+The variable `_` is called the *anonymous* variable.
 
 <!-- Another concept is the one of *term*, used to denote variables, constants, and compound. -->
 *Compound terms* are composed by an atom together with one or more arguments.
