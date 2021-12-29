@@ -13,7 +13,7 @@ In this new blog post, we will see how to interact with Prolog programs.
 <!-- Recall that rules without a body are called facts. -->
 
 Consider these two facts
-```
+```Prolog
 train(milan,paris).
 train(paris,madrid).
 ```
@@ -84,7 +84,7 @@ Note that the symbol `=` is not used to perform arithmetic sum.
 
 We add a third fact into the program: `train(milan,rome)`.
 Our program now looks like this:
-```
+```Prolog
 train(milan,paris).
 train(paris,madrid).
 train(milan,rome).
@@ -128,7 +128,7 @@ What does this mean? That in Prolog *the order of the clauses (in this case rule
 This is an important feature because, for some programs, a different order of the clauses may result in a query that terminates or loops forever.
 
 Consider this simple extension:
-```
+```Prolog
 train(milan,rome).
 train(paris,madrid).
 train(milan,paris).
