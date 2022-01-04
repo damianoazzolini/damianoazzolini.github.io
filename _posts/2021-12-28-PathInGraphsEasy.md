@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Querying Prolog
+title: Finding Paths in Graphs
 date: 2021-12-24
 categories: prolog
 ---

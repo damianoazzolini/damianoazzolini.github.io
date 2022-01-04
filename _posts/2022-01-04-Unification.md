@@ -1,7 +1,13 @@
-In this new video, we will study an important Prolog concept: *unification*.
+---
+layout: post
+title: Querying Prolog
+date: 2021-12-24
+categories: prolog
+---
+In this new post, we will study an important Prolog concept: *unification*.
 
 # Unification
-We have already seen in a previous video that Prolog, to answer a query, scans the program (database) from the top to the bottom to find a clause that matches with the current goal.
+We have already seen in a [previous post](https://damianoazzolini.github.io/prolog/2021/12/24/PrologBasicQueries.html) that Prolog, to answer a query, scans the program (database) from the top to the bottom to find a clause that matches with the current goal.
 
 Prolog uses a from of matching called *unification*.
 
